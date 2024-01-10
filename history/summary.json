@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/erlanggaagung.epizy.com.ico",
     "slug": "erlangga-blog",
     "status": "down",
-    "uptime": "45.76%",
-    "uptimeDay": "45.76%",
-    "uptimeWeek": "45.76%",
-    "uptimeMonth": "45.76%",
-    "uptimeYear": "45.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-10": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Moe Count",
