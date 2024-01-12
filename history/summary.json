@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 58,
+      "2024-01-12": 1151,
       "2024-01-11": 1440,
       "2024-01-10": 513
     }
@@ -26,18 +26,20 @@
     "url": "ryuxyro.epizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ryu-xyro-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 261,
     "timeDay": 209,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-12": 1
+    }
   },
   {
     "name": "Erlangga blog",
@@ -110,7 +112,7 @@
     "timeMonth": 18,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-01-12": 58,
+      "2024-01-12": 1152,
       "2024-01-11": 1440,
       "2024-01-10": 513
     }
