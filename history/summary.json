@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 1282,
+      "2024-01-12": 1314,
       "2024-01-11": 1440,
       "2024-01-10": 513
     }
@@ -26,19 +26,19 @@
     "url": "ryuxyro.epizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ryu-xyro-site",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
     "time": 808,
     "timeDay": 1206,
     "timeWeek": 808,
     "timeMonth": 808,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-01-12": 52
+      "2024-01-12": 43
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 18,
     "timeYear": 18,
     "dailyMinutesDown": {
-      "2024-01-12": 1334,
+      "2024-01-12": 1357,
       "2024-01-11": 1440,
       "2024-01-10": 513
     }
