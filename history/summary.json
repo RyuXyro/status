@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 1328,
+      "2024-01-12": 1419,
       "2024-01-11": 1440,
       "2024-01-10": 513
     }
@@ -26,19 +26,19 @@
     "url": "ryuxyro.epizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ryu-xyro-site",
-    "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
-    "time": 753,
-    "timeDay": 1038,
-    "timeWeek": 753,
-    "timeMonth": 753,
-    "timeYear": 753,
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
+    "time": 723,
+    "timeDay": 1093,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-01-12": 56
+      "2024-01-12": 43
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4170,
-    "timeDay": 1100,
-    "timeWeek": 4170,
-    "timeMonth": 4170,
-    "timeYear": 4170,
+    "time": 3478,
+    "timeDay": 711,
+    "timeWeek": 3478,
+    "timeMonth": 3478,
+    "timeYear": 3478,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 47,
-    "timeDay": 41,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 47,
+    "time": 62,
+    "timeDay": 124,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   },
   {
@@ -106,13 +106,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 18,
-    "timeDay": 5,
-    "timeWeek": 18,
-    "timeMonth": 18,
-    "timeYear": 18,
+    "time": 36,
+    "timeDay": 112,
+    "timeWeek": 36,
+    "timeMonth": 36,
+    "timeYear": 36,
     "dailyMinutesDown": {
-      "2024-01-12": 1384,
+      "2024-01-12": 1462,
       "2024-01-11": 1440,
       "2024-01-10": 513
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 16,
-    "timeDay": 3,
-    "timeWeek": 16,
-    "timeMonth": 16,
-    "timeYear": 16,
+    "time": 38,
+    "timeDay": 104,
+    "timeWeek": 38,
+    "timeMonth": 38,
+    "timeYear": 38,
     "dailyMinutesDown": {}
   }
 ]
