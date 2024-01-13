@@ -15,9 +15,9 @@ sites:
     url: https://ryuxyro.github.io/igdownloader/
   - name: Status
     url: https://ryuxyro.github.io/status/
-  - name: Tugas website
-    url: https://ryuxyro.github.io/personal-website/
-
+  - name: School Website
+    url: https://www.smpkstvincentius.sch.id/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
