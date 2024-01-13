@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-13": 455,
+      "2024-01-13": 473,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 513
@@ -27,19 +27,19 @@
     "url": "http://ryuxyro.epizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/ryuxyro.epizy.com.ico",
     "slug": "ryu-xyro-site",
-    "status": "down",
-    "uptime": "95.64%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "95.64%",
-    "uptimeYear": "95.64%",
-    "time": 1562,
-    "timeDay": 2035,
-    "timeWeek": 1562,
-    "timeMonth": 1562,
-    "timeYear": 1562,
+    "status": "up",
+    "uptime": "95.18%",
+    "uptimeDay": "87.09%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "95.18%",
+    "uptimeYear": "95.18%",
+    "time": 1485,
+    "timeDay": 1893,
+    "timeWeek": 1485,
+    "timeMonth": 1485,
+    "timeYear": 1485,
     "dailyMinutesDown": {
-      "2024-01-13": 126,
+      "2024-01-13": 144,
       "2024-01-12": 42
     }
   },
@@ -48,19 +48,19 @@
     "url": "http://blog.ryuxyro.epizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ryuxyro.epizy.com.ico",
     "slug": "ryu-xyro-blog",
-    "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "97.61%",
-    "time": 487,
-    "timeDay": 487,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "63.83%",
+    "uptimeDay": "63.83%",
+    "uptimeWeek": "63.83%",
+    "uptimeMonth": "63.83%",
+    "uptimeYear": "63.83%",
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2024-01-13": 1
+      "2024-01-13": 19
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2024-01-13": 582,
+      "2024-01-13": 637,
       "2024-01-12": 1482,
       "2024-01-11": 1440,
       "2024-01-10": 513
