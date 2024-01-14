@@ -8,7 +8,7 @@ sites:
   - name: RyuXyro site
     url: http://ryuxyro.epizy.com
   - name: RyuXyro blog
-    url: http://blog.ryuxyro.epizy.com
+    url: https://blog.ryuxyro.epizy.com
   - name: Erlangga blog
     url: https://erlanggaagung.epizy.com
   - name: Moe Count
