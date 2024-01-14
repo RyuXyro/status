@@ -11,14 +11,16 @@ sites:
     url: https://blog.ryuxyro.epizy.com
   - name: Erlangga blog
     url: https://erlanggaagung.epizy.com
+  - name: School Website
+    url: https://www.smpkstvincentius.sch.id/
+  - name: Hbd Website for Special Girl
+    url: https://special-for-you.rf.gd
   - name: Moe Count
     url: https://moe-count.glitch.me
   - name: Insta Downloader
     url: https://ryuxyro.github.io/igdownloader/
   - name: Status
     url: https://ryuxyro.github.io/status/
-  - name: School Website
-    url: https://www.smpkstvincentius.sch.id/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
