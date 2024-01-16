@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 58,
+      "2024-01-16": 1219,
       "2024-01-15": 1440,
       "2024-01-14": 685
     }
@@ -27,17 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryuxyro.epizy.com.ico",
     "slug": "ryu-xyro-website",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 291,
     "timeDay": 319,
     "timeWeek": 291,
     "timeMonth": 291,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 2
+    }
   },
   {
     "name": "RyuXyro Blog",
@@ -45,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.ryuxyro.epizy.com.ico",
     "slug": "ryu-xyro-blog",
     "status": "down",
-    "uptime": "28.65%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "28.65%",
-    "uptimeMonth": "28.65%",
-    "uptimeYear": "28.65%",
+    "uptime": "31.77%",
+    "uptimeDay": "34.18%",
+    "uptimeWeek": "31.77%",
+    "uptimeMonth": "31.77%",
+    "uptimeYear": "31.77%",
     "time": 2287,
     "timeDay": 0,
     "timeWeek": 2287,
     "timeMonth": 2287,
     "timeYear": 2287,
     "dailyMinutesDown": {
-      "2024-01-16": 58,
+      "2024-01-16": 727,
       "2024-01-15": 1440,
       "2024-01-14": 1218,
       "2024-01-13": 108
@@ -133,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 58,
+      "2024-01-16": 1219,
       "2024-01-15": 1440,
       "2024-01-14": 750
     }
@@ -191,7 +193,7 @@
     "timeMonth": 40,
     "timeYear": 40,
     "dailyMinutesDown": {
-      "2024-01-16": 232,
+      "2024-01-16": 3892,
       "2024-01-15": 5760,
       "2024-01-14": 4093,
       "2024-01-13": 1761,
