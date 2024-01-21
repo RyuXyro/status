@@ -9,6 +9,8 @@ sites:
     url: http://ryuxyro.epizy.com
   - name: RyuXyro Blog
     url: https://blog.ryuxyro.epizy.com
+  - name: RyuXyro Cloud
+    url: https://cloud.d4rknewbie2.workers.dev/
   - name: Erlangga Blog
     url: https://erlanggaagung.epizy.com
   - name: SMPK Website
