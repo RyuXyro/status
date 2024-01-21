@@ -8,7 +8,7 @@ sites:
   - name: RyuXyro Website
     url: http://ryuxyro.epizy.com
   - name: RyuXyro Cloud
-    url: https://cloud.d4rknewbie2.workers.dev/
+    url: https://cloud.ryuxyro.workers.dev/
   - name: Hbd Website for Special Girl
     url: https://special-for-you.rf.gd
   - name: Moe Count
