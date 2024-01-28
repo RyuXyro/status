@@ -9,6 +9,8 @@ sites:
     url: http://ryuxyro.epizy.com
   - name: Acela
     url: https://acela.rf.gd
+  - name: Risky
+    url: https://ryuxyro.my.id/
   - name: RyuXyro Cloud
     url: https://cloud.ryuxyro.workers.dev/
   - name: Special Website
