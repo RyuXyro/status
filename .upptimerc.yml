@@ -21,8 +21,6 @@ sites:
     url: https://ryuxyro.github.io/igdownloader/
   - name: Status
     url: https://ryuxyro.github.io/status/
-  - name: host_1
-    url: https://ryuxyro-rx-discord-bot-endvns92kh.us2.codeanyapp.com/#/workspaces/rx-discord-bot
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
