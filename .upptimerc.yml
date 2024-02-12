@@ -21,8 +21,7 @@ sites:
     url: https://ryuxyro.github.io/igdownloader/
   - name: Status
     url: https://ryuxyro.github.io/status/
-  - name: secret
-    url: https://vercel.com/new/ryuxyros-projects/import/hidden?s=https%3A%2F%2Fgithub.com%2FRyuXyro%2Frx-js-bot&hasTrialAvailable=1&showOptionalTeamCreation=false&project-name=rx-js-bot&framework=other&totalProjects=1&remainingProjects=1&deploymentIds=dpl_C2DBNu9yTXdZKoNcNAyaG4MtZ6Gw
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
