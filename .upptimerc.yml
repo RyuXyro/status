@@ -13,8 +13,12 @@ sites:
     url: https://ryuxyro.my.id/
   - name: RyuXyro Cloud
     url: https://cloud.ryuxyro.workers.dev/
-  - name: Special Website
+  - name: Special 1
     url: https://special-for-you.rf.gd
+  - name: Special 2
+    url: https://flower.risky.rf.gd/
+  - name: Special 3
+    url: https://need-you.risky.rf.gd/
   - name: My Galery
     url: https://one-galery.epizy.com/
   - name: Moe Count
