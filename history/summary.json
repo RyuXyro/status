@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 921,
+      "2024-03-14": 940,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 377
+      "2024-03-14": 396
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 377
+      "2024-03-14": 396
     }
   },
   {
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 377
+      "2024-03-14": 396
     }
   },
   {
@@ -238,7 +238,7 @@
     "uptime": "0.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.18%",
+    "uptimeMonth": "1.22%",
     "uptimeYear": "0.14%",
     "time": 317,
     "timeDay": 0,
@@ -246,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-03-14": 921,
+      "2024-03-14": 940,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -283,19 +283,19 @@
     "url": "https://moe-count.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-count",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.81%",
-    "time": 8034,
-    "timeDay": 11379,
-    "timeWeek": 14105,
-    "timeMonth": 13078,
-    "timeYear": 8034,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.79%",
+    "time": 7960,
+    "timeDay": 9295,
+    "timeWeek": 13009,
+    "timeMonth": 12721,
+    "timeYear": 7960,
     "dailyMinutesDown": {
-      "2024-03-14": 0,
+      "2024-03-14": 19,
       "2024-03-13": 18,
       "2024-02-03": 101,
       "2024-01-22": 58
@@ -336,7 +336,7 @@
     "timeMonth": 59,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2024-03-14": 3894,
+      "2024-03-14": 4027,
       "2024-03-13": 4338,
       "2024-03-12": 4320,
       "2024-03-11": 4320,
