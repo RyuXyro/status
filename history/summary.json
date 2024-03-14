@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 1019,
+      "2024-03-14": 1047,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -131,11 +131,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryuxyro.my.id.ico",
     "slug": "risky",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.43%",
+    "uptimeYear": "97.44%",
     "time": 1173,
     "timeDay": 497,
     "timeWeek": 471,
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/special-for-you.rf.gd.ico",
     "slug": "special-1",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 475
+      "2024-03-14": 502
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 475
+      "2024-03-14": 502
     }
   },
   {
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 475
+      "2024-03-14": 502
     }
   },
   {
@@ -238,7 +238,7 @@
     "uptime": "0.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.40%",
+    "uptimeMonth": "1.47%",
     "uptimeYear": "0.14%",
     "time": 317,
     "timeDay": 0,
@@ -246,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-03-14": 1019,
+      "2024-03-14": 1047,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -283,19 +283,19 @@
     "url": "https://moe-count.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-count",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.79%",
-    "time": 7960,
-    "timeDay": 9295,
-    "timeWeek": 13009,
-    "timeMonth": 12721,
-    "timeYear": 7960,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.76%",
+    "time": 7891,
+    "timeDay": 7948,
+    "timeWeek": 12102,
+    "timeMonth": 12392,
+    "timeYear": 7891,
     "dailyMinutesDown": {
-      "2024-03-14": 19,
+      "2024-03-14": 47,
       "2024-03-13": 18,
       "2024-02-03": 101,
       "2024-01-22": 58
@@ -336,7 +336,7 @@
     "timeMonth": 59,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2024-03-14": 4501,
+      "2024-03-14": 4696,
       "2024-03-13": 4338,
       "2024-03-12": 4320,
       "2024-03-11": 4320,
