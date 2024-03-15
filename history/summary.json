@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 120,
+      "2024-03-15": 144,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -132,11 +132,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryuxyro.my.id.ico",
     "slug": "risky",
     "status": "up",
-    "uptime": "97.45%",
+    "uptime": "97.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.45%",
+    "uptimeYear": "97.46%",
     "time": 1161,
     "timeDay": 468,
     "timeWeek": 474,
@@ -187,7 +187,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 121,
+      "2024-03-15": 144,
       "2024-03-14": 896
     }
   },
@@ -208,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 121,
+      "2024-03-15": 144,
       "2024-03-14": 896
     }
   },
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 121,
+      "2024-03-15": 144,
       "2024-03-14": 896
     }
   },
@@ -242,7 +242,7 @@
     "uptime": "0.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.65%",
+    "uptimeMonth": "2.70%",
     "uptimeYear": "0.14%",
     "time": 317,
     "timeDay": 0,
@@ -250,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-03-15": 121,
+      "2024-03-15": 144,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -288,19 +288,19 @@
     "url": "https://moe-count.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/moe-count.glitch.me.ico",
     "slug": "moe-count",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.76%",
-    "time": 7995,
-    "timeDay": 5229,
-    "timeWeek": 12264,
-    "timeMonth": 12470,
-    "timeYear": 7995,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.73%",
+    "time": 8047,
+    "timeDay": 6798,
+    "timeWeek": 12322,
+    "timeMonth": 12487,
+    "timeYear": 8047,
     "dailyMinutesDown": {
-      "2024-03-15": 0,
+      "2024-03-15": 24,
       "2024-03-14": 47,
       "2024-03-13": 18,
       "2024-02-03": 101,
@@ -342,7 +342,7 @@
     "timeMonth": 61,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2024-03-15": 726,
+      "2024-03-15": 888,
       "2024-03-14": 7055,
       "2024-03-13": 4338,
       "2024-03-12": 4320,
