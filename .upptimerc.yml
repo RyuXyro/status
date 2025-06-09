@@ -30,6 +30,7 @@ sites:
   - name: Status
     url: https://ryuxyro.github.io/status/
 
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
