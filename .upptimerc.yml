@@ -3,28 +3,30 @@ owner: RyuXyro # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: KazuoYuuka Website
-    url: https://kazuoyuuka.rf.gd
-  - name: RyuXyro Website
-    url: http://ryuxyro.epizy.com
-  - name: Acela
-    url: https://acela.rf.gd
+#  - name: KazuoYuuka Website
+#    url: https://kazuoyuuka.rf.gd
+#  - name: RyuXyro Website
+#    url: http://ryuxyro.epizy.com
+#  - name: Acela
+#    url: https://acela.rf.gd
+#  - name: RyuXyro Cloud
+#    url: https://cloud.ryuxyro.workers.dev/
+#  - name: Special 1
+#    url: https://special-for-you.rf.gd
+#  - name: Special 2
+#    url: https://flower.risky.rf.gd/
+#  - name: Special 3
+#    url: https://need-you.risky.rf.gd/
+#  - name: My Galery
+#    url: https://one-galery.epizy.com/
+#  - name: Moe Count
+#    url: https://moe-count.glitch.me
   - name: Risky
     url: https://ryuxyro.my.id/
-  - name: RyuXyro Cloud
-    url: https://cloud.ryuxyro.workers.dev/
-  - name: Special 1
-    url: https://special-for-you.rf.gd
-  - name: Special 2
-    url: https://flower.risky.rf.gd/
-  - name: Special 3
-    url: https://need-you.risky.rf.gd/
-  - name: My Galery
-    url: https://one-galery.epizy.com/
-  - name: Moe Count
-    url: https://moe-count.glitch.me
   - name: Instagram Downloader
     url: https://ryuxyro.github.io/igdownloader/
+  - name: safefileku
+    url: https://download.safefileku.com/file/aRgzuragzItxb9h4/image1.jpeg/download?hash=cygK8SbTH3vZxDIcJR_Vzw&expire=1749506860&v=2
   - name: Status
     url: https://ryuxyro.github.io/status/
 
