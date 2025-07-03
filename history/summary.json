@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ryuxyro.my.id.ico",
     "slug": "risky",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.60%",
+    "uptimeDay": "7.96%",
+    "uptimeWeek": "86.85%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.75%",
     "time": 985,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 0
+      "2025-07-03": 85,
+      "2025-07-02": 1240
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 87,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/download.safefileku.com.ico",
     "slug": "safefileku",
     "status": "down",
-    "uptime": "5.06%",
-    "uptimeDay": "5.06%",
-    "uptimeWeek": "5.06%",
-    "uptimeMonth": "5.06%",
-    "uptimeYear": "5.06%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2025-07-02": 0
+      "2025-07-03": 85,
+      "2025-07-02": 1240
     }
   },
   {
@@ -68,13 +70,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 50,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 49,
+    "timeDay": 61,
+    "timeWeek": 61,
+    "timeMonth": 61,
+    "timeYear": 61,
     "dailyMinutesDown": {
-      "2025-07-02": 1200,
+      "2025-07-03": 680,
+      "2025-07-02": 11120,
       "2025-07-01": 8640,
       "2025-06-30": 8640,
       "2025-06-29": 8640,
@@ -437,8 +440,7 @@
       "2024-07-07": 8640,
       "2024-07-06": 8640,
       "2024-07-05": 8640,
-      "2024-07-04": 8640,
-      "2024-07-03": 8640
+      "2024-07-04": 8640
     }
   }
 ]
