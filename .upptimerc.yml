@@ -21,12 +21,12 @@ sites:
 #    url: https://one-galery.epizy.com/
 #  - name: Moe Count
 #    url: https://moe-count.glitch.me
-  - name: Risky
-    url: https://ryuxyro.my.id/
+#  - name: Risky
+#    url: https://ryuxyro.my.id/
   - name: Instagram Downloader
     url: https://ryuxyro.github.io/igdownloader/
-  - name: safefileku
-    url: https://download.safefileku.com/file/aRgzuragzItxb9h4/image1.jpeg/download?hash=cygK8SbTH3vZxDIcJR_Vzw&expire=1749506860&v=2
+#  - name: safefileku
+#    url: https://download.safefileku.com/file/aRgzuragzItxb9h4/image1.jpeg/download?hash=cygK8SbTH3vZxDIcJR_Vzw&expire=1749506860&v=2
   - name: Status
     url: https://ryuxyro.github.io/status/
 
